@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jmartsch" height="30" width="40" /></a>
-<a href="https://twitter.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jmartsch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jens-martsch-7b156519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jens-martsch-7b156519b" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jmartsch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucyvqmagmcpeavorp1ybuy0a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucyvqmagmcpeavorp1ybuy0a" height="30" width="40" /></a>
+<a href="https://codepen.io/jmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="My codepen profile" height="30" width="40" /></a>
+<a href="https://twitter.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="My Twitter profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jens-martsch-7b156519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="My linkedin profile" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jmartsch @ codesandbox" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/JensmartschDe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dotnetic on YouTube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
