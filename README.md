@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jens</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/jmartsch" target="blank"><img src="https://img.shields.io/twitter/follow/jmartsch?logo=twitter&style=for-the-badge" alt="jmartsch" /></a> </p>
-
 - 👯 I’m looking to collaborate on **new website projects**
 
 - 👨‍💻 Some of my projects for clients are available at [https://dotnetic.de](https://dotnetic.de)
