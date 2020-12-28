@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **new website projects**
 
-- 👨‍💻 All of my projects are available at [https://dotnetic.de](https://dotnetic.de)
+- 👨‍💻 Some of my projects for clients are available at [https://dotnetic.de](https://dotnetic.de)
 
-- 📫 How to reach me **info@dotnetic.de**
+- 📫 You can reach me via **info@dotnetic.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jmartsch" height="30" width="40" /></a>
+<a href="https://codepen.io/jmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jmartsch" height="30" width="40" /></a>
 <a href="https://twitter.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jmartsch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jens-martsch-7b156519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jens-martsch-7b156519b" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jmartsch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jmartsch" height="30" width="40" /></a>
