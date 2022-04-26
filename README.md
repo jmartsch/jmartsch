@@ -7,6 +7,10 @@
 
 - 📫 You can reach me via **jmartsch@gmail.com** or for business purposes at **info@dotnetic.de**
 
+<h3 align="left">Achievements:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmartsch" alt="jmartsch" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/jmar" target="blank"><img align="center"
