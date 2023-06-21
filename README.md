@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **new website projects**
 
-- 👨‍💻 Some of projects for clients are available at [https://dotnetic.de](https://dotnetic.de)
+- 👨‍💻 Some of my client projects are showcased at [https://dotnetic.de](https://dotnetic.de)
 
 - 📫 You can reach me via **jmartsch@gmail.com** or for business purposes at **info@dotnetic.de**
 
