@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jens</h1>
+<h1 align="center">Hi 👋, I'm Jens Martsch</h1>
 <h3 align="center">A passionate developer from Germany who strives to make the web better</h3>
 
 - 👯 I’m looking to collaborate on **new website projects**
