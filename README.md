@@ -36,18 +36,10 @@
 ## 🤖 AI-Powered Coding Tools I Use
 
 <p align="left">
-  <a href="https://claude.ai/chat" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" alt="Claude AI" width="40" height="40" title="Claude Code by Anthropic" />
-  </a>
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Copilot" width="40" height="40" title="GitHub Copilot" />
-  </a>
-  <a href="https://openai.com/index/openai-codex/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI Codex" width="40" height="40" title="OpenAI Codex" />
-  </a>
-  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/100925146?s=200&v=4" alt="Cursor" width="40" height="40" title="Cursor AI Editor" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" alt="Claude AI" width="40" height="40" title="Claude Code by Anthropic" />
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Copilot" width="40" height="40" title="GitHub Copilot" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI Codex" width="40" height="40" title="OpenAI Codex" />
+  <img src="https://avatars.githubusercontent.com/u/100925146?s=200&v=4" alt="Cursor" width="40" height="40" title="Cursor AI Editor" />
 </p>
 
 ---
