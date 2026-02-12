@@ -43,7 +43,7 @@
 
 <p align="left">
   <a href="https://claude.ai/chat" target="_blank" rel="noreferrer">
-    <img src="https://www.anthropic.com/_next/image?url=%2Fimages%2Ficons%2Fapple-touch-icon.png&w=32&q=75" alt="Claude AI" width="40" height="40" title="Claude Code by Anthropic" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Anthropic_logo.svg" alt="Claude AI" width="40" height="40" title="Claude Code by Anthropic" />
   </a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Copilot" width="40" height="40" title="GitHub Copilot" />
