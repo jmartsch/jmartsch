@@ -5,7 +5,7 @@
 
 ## 📫 About Me
 
-- 👯 I'm looking to collaborate on **new website projects**
+- 👯 I'm looking for new clients on **new website projects** and **AI automation**
 - 👨‍💻 Some of my client projects are showcased at [https://dotnetic.de](https://dotnetic.de)
 - 📧 You can reach me via **jmartsch@gmail.com** or for business purposes at **info@dotnetic.de**
 
